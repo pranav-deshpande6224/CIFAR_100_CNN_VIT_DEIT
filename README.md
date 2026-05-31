@@ -39,41 +39,54 @@ Experiments were performed using:
 
 ---
 
-# Final Accuracy Comparison
-
-(Add your final summary table image here)
+# Accuracy Comparison
 
 <p align="center">
-  <img src="assets/final_accuracy_comparison.png" width="1000">
+  <img src="summary_tables/table_accuracy.png" width="1000">
 </p>
+
+# Loss vs Epoch Graph Table
+
+<p align="center">
+  <img src="summary_tables/table_loss_epoch.png" width="1000">
+</p>
+
+# image label Confusion Matrix Table
+<p align="center">
+  <img src="summary_tables/table_imagelabel_cm.png" width="1000">
+</p>
+
+# Super class label Confusion Matrix Table
+<p align="center">
+  <img src="summary_tables/table_super_cm.png" width="1000">
+</p>
+
+# group class label Confusion Matrix Table
+<p align="center">
+  <img src="summary_tables/table_group_cm.png" width="1000">
+</p>
+
 
 ---
 
 # Google Colab
 
-🔗 PASTE_COLAB_LINK
+🔗 https://drive.google.com/file/d/1isjppOv8yctJEho_6VGM5EDzX52qlp4U/view?usp=drive_link
 
 ---
 
 # Handwritten Report
 
-📄 PASTE_HANDWRITTEN_REPORT_LINK
+📄 https://drive.google.com/file/d/1BFl81deQupWheamdOtoS-eGbYFAu3zgB/view?usp=drive_link
 
 ---
 
-# Pretrained Models
+# Models
 
-## CNN
+## DeiT (Teacher + Student)
 
-📦 PASTE_CNN_MODEL_LINK
-
-## Vision Transformer
-
-📦 PASTE_VIT_MODEL_LINK
-
-## DeiT
-
-📦 PASTE_DEIT_MODEL_LINK
+📦 https://drive.google.com/file/d/1sguHFRYyizHJXPtYVS-CMOxTVHNlDHJc/view?usp=drive_link
+📦 https://drive.google.com/file/d/1JV2Xbyvw3_zqO0CfDKVRZVJas6-tlpCa/view?usp=drive_link
 
 ---
 
@@ -144,11 +157,16 @@ Experiments were conducted using three train-test splits (70-30, 80-20, and 90-1
 
 ---
 
+## GPU
+* A100 GPU rented from Jarvis Labs
+
+--- 
+
 ## Author
 
 **Pranav Deshpande**
-IIT Jodhpur
+  IIT Jodhpur
 * Deep Learning
-*  Computer Vision
-*   Multi-Task Learning
+* Computer Vision
+* Multi-Task Learning
 
