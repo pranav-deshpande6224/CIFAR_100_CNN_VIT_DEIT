@@ -7,6 +7,12 @@
 
 ---
 
+# Handwritten Report
+
+📄 https://drive.google.com/file/d/1BFl81deQupWheamdOtoS-eGbYFAu3zgB/view?usp=drive_link
+
+---
+
 ## Introduction
 
 This project explores hierarchical image classification on the CIFAR-100 dataset using three different deep learning architectures:
@@ -73,13 +79,6 @@ Experiments were performed using:
   <img src="summary_tables/table_group_cm.png" width="1000">
 </p>
 
-
----
-
-
-# Handwritten Report
-
-📄 https://drive.google.com/file/d/1BFl81deQupWheamdOtoS-eGbYFAu3zgB/view?usp=drive_link
 
 ---
 
