@@ -1,5 +1,12 @@
 # Multi-Task Hierarchical Classification on CIFAR-100 using CNN, Vision Transformer and DeiT
 
+
+# Google Colab
+
+🔗 https://drive.google.com/file/d/1isjppOv8yctJEho_6VGM5EDzX52qlp4U/view?usp=drive_link
+
+---
+
 ## Introduction
 
 This project explores hierarchical image classification on the CIFAR-100 dataset using three different deep learning architectures:
@@ -69,11 +76,6 @@ Experiments were performed using:
 
 ---
 
-# Google Colab
-
-🔗 https://drive.google.com/file/d/1isjppOv8yctJEho_6VGM5EDzX52qlp4U/view?usp=drive_link
-
----
 
 # Handwritten Report
 
